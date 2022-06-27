@@ -1,6 +1,6 @@
 <div align="center">
     <img alt="gif_marin" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cfc80d6-1ea8-4929-87ea-f6bc4a317313/d57boss-0527fab4-c6e2-4126-9a3e-d3963a195a3c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZmM4MGQ2LTFlYTgtNDkyOS04N2VhLWY2YmM0YTMxNzMxM1wvZDU3Ym9zcy0wNTI3ZmFiNC1jNmUyLTQxMjYtOWEzZS1kMzk2M2ExOTVhM2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZUzcAMoNWZGH56dl2JYeQOuhXYw0iGYgYd_ed6iaEJk">
-    <h1> Salve! Cesar aqui! :D 😎</h1>
+    <h1> Welcome to my profile UwU</h1>
 </div>
 
 ### 🖤 -- Redes Sociais
