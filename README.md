@@ -9,7 +9,7 @@
     <a href="https://twitter.com/wubba_yuh" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/wubba_yuh/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/yuri-moreira-santos-305370226/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href=""><img alt="inosuke" src ="https://i.pinimg.com/originals/44/3f/f1/443ff106411f17898c8db28885e4d50a.gif">
+    <a href="https://www.youtube.com/watch?v=z3-LclUSUXk"><img alt="inosuke" src ="https://i.pinimg.com/originals/44/3f/f1/443ff106411f17898c8db28885e4d50a.gif" style="widght: 50px; height: 50px;">
   
 </div>
 
