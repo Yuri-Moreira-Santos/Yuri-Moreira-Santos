@@ -18,7 +18,6 @@
   <a href="https://github.com/Yuh-UwU">
   <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuh-UwU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="375em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuh-UwU&layout=compact&langs_count=7&theme=tokyonight"/>
-      <a href="https://www.youtube.com/watch?v=z3-LclUSUXk" target="_blank"><img alt="inosuke" src ="https://im5.ezgif.com/tmp/ezgif-5-6d55965756.gif">
 </div>
 
 #
