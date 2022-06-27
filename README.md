@@ -9,8 +9,7 @@
     <a href="https://twitter.com/wubba_yuh" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/wubba_yuh/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/yuri-moreira-santos-305370226/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/watch?v=z3-LclUSUXk"><img alt="inosuke" src ="https://i.pinimg.com/originals/44/3f/f1/443ff106411f17898c8db28885e4d50a.gif" style="widght: 50px; height: 50px;">
-  
+      
 </div>
 
 #
@@ -19,6 +18,7 @@
   <a href="https://github.com/Yuh-UwU">
   <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuh-UwU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="375em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuh-UwU&layout=compact&langs_count=7&theme=tokyonight"/>
+      <a href="https://www.youtube.com/watch?v=z3-LclUSUXk" target="_blank"><img alt="inosuke" src ="https://im5.ezgif.com/tmp/ezgif-5-6d55965756.gif">
 </div>
 
 #
