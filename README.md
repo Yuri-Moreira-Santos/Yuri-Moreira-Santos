@@ -1,6 +1,6 @@
 <div align="center">
-    <img alt="eu" src="https://avatars.githubusercontent.com/u/70709698?v=4" style="widght: 250px;; height: 250px;">
-    <h1> Welcome to my profile UwU</h1>
+    <img alt="eu" src="https://avatars.githubusercontent.com/u/70709698?v=4" style="widght: 250px;; height: 250px; border-radius: 10px;">
+    <h1> Bem vindos ao meu perfil 😄</h1>
 </div>
 
 ### 🖤 -- Redes Sociais -- 🖤
@@ -15,7 +15,7 @@
 #
 
 <div align="center">
-  <a href="https://github.com/Yuh-UwU">
+  <a href="https://github.com/Yuri-Moreira-Santos">
   <img width="380em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuh-UwU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="375em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuh-UwU&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
