@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="eu" src="https://avatars.githubusercontent.com/u/70709698?v=4" style="widght: 250px;; height: 250px; border-radius: 10px;">
+    <img alt="eu" src="https://avatars.githubusercontent.com/u/70709698?v=4" style="widght: 250px;; height: 250px;;">
     <h1> Bem vindos ao meu perfil 😄</h1>
 </div>
 
