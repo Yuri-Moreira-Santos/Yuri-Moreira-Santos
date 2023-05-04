@@ -1,24 +1,16 @@
 <div align="center">
-    <img alt="eu" src="perfilAttAll.jpg" style="widght: 250px;; height: 250px;; border-radius= 50%">
+    <img alt="eu" src="perfilAttAll.jpg" style="widght: 250px;; height: 250px;;">
     <h1> Bem vindos ao meu perfil 😄</h1>
 </div>
 
 ### 🖤 -- Redes Sociais -- 🖤
-<div>
+<div> 
     <a href="https://www.twitch.tv/bgr_uwu" target="_blank"><img alt="twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/wubba_yuh" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/wubba_yuh/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/yuri-moreira-santos-305370226/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       
 </div>
-
-#
-
-<div align="center">
-  <img width="380em" height="180em" src="https://github-readme-stats-yuri-moreira-santos.vercel.appu?sername=yuri-moreira-santos&show_icons=true&theme=tokyonight"/>
-</div>
-
-#
 
 ### 💻 -- O que estou aprendendo! -- 💻
 <div>
