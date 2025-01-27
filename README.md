@@ -1,5 +1,4 @@
 <div align="center">
-    <img alt="eu" src="perfilAttAll.jpg" style="widght: 250px; height: 250px;">
     <h1> Bem vindos ao meu perfil </h1>
 </div>
 
