@@ -21,13 +21,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Backend com mais de 2 anos de experiência em **Java** e **Spring Boot**, atuando em projetos de alta complexidade nos setores **financeiro** e de **saúde**.
+Desenvolvedor Backend com mais de 3 anos de experiência em **Java** e **Spring Boot**, atuando em projetos de alta complexidade nos setores **financeiro** e de **saúde**.
 
 Trabalho com microsserviços, APIs REST, mensageria e cloud — sempre focado em soluções escaláveis, robustas e de alta disponibilidade. Tenho vivência tanto no backend quanto no frontend, o que me permite ter uma visão completa do ciclo de desenvolvimento.
 
 - 🏢 Atualmente na **Foursys** como Desenvolvedor Java PL, em projetos do setor financeiro
 - 🎓 MBA em Gestão Estratégica Empresarial — **Mackenzie** (em andamento)
-- 📚 Especialização em Tecnologias e Inovações Web — **FAVENI** (em andamento)
+- 📚 Especialização em Tecnologias e Inovações Web — **FAVENI** (concluído)
 - 💡 Apaixonado por boas práticas, código limpo e arquitetura de software
 
 ---
@@ -74,15 +74,6 @@ Trabalho com microsserviços, APIs REST, mensageria e cloud — sempre focado em
 
 **ICESP** — Programador Pleno *(set/2023 – set/2024)*
 > Desenvolvimento de aplicações corporativas críticas em Java/Spring Boot, integrações via Mirth Connect, SQL Server e contribuições em Go. Stack: Docker, RabbitMQ, Google Cloud, CI/CD.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yuri-Moreira-Santos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Moreira-Santos&layout=compact&langs_count=7&theme=dark"/>
-</p>
 
 ---
 
