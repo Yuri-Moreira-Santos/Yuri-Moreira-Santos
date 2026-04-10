@@ -2,7 +2,8 @@
     <h1> Bem vindos ao meu perfil </h1>
 </div>
 
-<div align="center">### 🖤 -- Redes Sociais -- 🖤 </div>
+### 🖤 -- Redes Sociais -- 🖤
+
 <div align="center"> 
     <a href="https://www.instagram.com/wubba_yuh/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/yuri-moreira-santos-305370226/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
