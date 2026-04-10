@@ -2,8 +2,8 @@
     <h1> Bem vindos ao meu perfil </h1>
 </div>
 
-<div align="center">
-    ### 🖤 -- Redes Sociais -- 🖤
+<div align="center bold">
+    🖤 -- Redes Sociais -- 🖤
 </div>
 
 <div align="center"> 
