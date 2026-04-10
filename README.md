@@ -2,7 +2,9 @@
     <h1> Bem vindos ao meu perfil </h1>
 </div>
 
-### 🖤 -- Redes Sociais -- 🖤
+<div align="center">
+    ### 🖤 -- Redes Sociais -- 🖤
+</div>
 
 <div align="center"> 
     <a href="https://www.instagram.com/wubba_yuh/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
